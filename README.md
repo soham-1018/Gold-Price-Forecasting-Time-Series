@@ -79,12 +79,6 @@ Gold-Price-Forecasting-Time-Series/
 ├── data/
 │   └── monthly_csv.csv
 │
-├── figures/
-│   ├── forecast_vs_actual.png
-│   ├── acf_training.png
-│   ├── pacf_training.png
-│   └── residual_plot.png
-│
 └── report/
     └── Gold_Price_Forecasting_Dissertation.pdf
 ```
